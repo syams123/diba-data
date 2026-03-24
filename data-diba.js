@@ -1,7 +1,7 @@
 [
   {
     "no": 1,
-    "pasal": "Ya Robbi Sholli",
+    "pasal": "يَا رَبِّ صَلِّ عَلَى مُحَمَّد",
     "arab": "يَـا رَبِّ صَلِّ عَـلىٰ مُحَمَّدْ ۞ يَـا رَبِّ صَلِّ عَلَيْهِ وَسَلِّمْ",
     "latin": "Yā Rabbi ṣalli 'alā Muḥammad ۞ Yā Rabbi ṣalli 'alayhi wa sallim",
     "id": "Ya Allah, tetapkanlah limpahan rahmat kepada Nabi Muhammad. Ya Allah, tetapkanlah limpahan rahmat dan kesejahteraan kepadanya."
