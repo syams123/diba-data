@@ -1,4 +1,3 @@
-const dataDibaLengkap = [
 [
   {
     "no": 1,
